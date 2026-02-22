@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Prof Paul A Hoskisson FRSE FRSB"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Molecular Microbiology, University of Strathclyde, Glasgow, UK"
@@ -43,8 +43,8 @@ author:
   
 
   # Social media
-  bluesky          : "@paulhoskisson.bsky.social"
-  instagram        : "@paulhoskisson"
+  bluesky          : "paulhoskisson.bsky.social"
+  instagram        : "paulhoskisson"
   twitter          : "@paulhoskisson"
 
 
