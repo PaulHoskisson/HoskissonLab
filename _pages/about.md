@@ -31,7 +31,7 @@ Career Summary
 I've always been curious about all aspects of biology and as a child always had jars and tanks of tadpoles, frogs, snakes, lizards, fish, insects and plants around my parents home - the interest fostered, if not positively encouraged, by my Dad and Grandfather. As far back as I can remember I always wanted to be a scientist - so I'm essentially living the dream! 
 I still have tanks of frogs, fish and snakes around my own home and I'm still hooked on all things alive. My other interests include Travelling (often to photograph reptiles, amphibians and birds), Cricket (Lancashire CCC and England), and Everton Football Club. ​
 
-title: "Career summary"
+Career summary
 
 Whilst I was an undergraduate in Applied Microbiology at Liverpool John Moores University I discovered the Actinomycete bacteria through the lectures of Dr George Sharples and Dr Glyn Hobbs - I was then hooked! I realised that these fascinating and complex bacteria would enable me to look at developmental and evolutionary biology on an agar plate and work on something useful too - as Actinomycetes are important industrial organisms producing many of our antibiotics and other drug molecules (immumnosuppresives, anticancer agents and anti-helminthics) in addition to producing a range of industrial enzymes and chemicals.
 
